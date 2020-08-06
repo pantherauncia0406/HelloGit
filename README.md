@@ -1,2 +1,2 @@
-# hello-world
+# HelloGit
 This is a tutorial.
